@@ -25,3 +25,8 @@ This project demonstrates an Extract, Transform, and Load (ETL) pipeline using A
 - dags/openweathermap.py: Defines the Airflow DAG.
 - README.md: Documentation and setup instructions.
 - weather_forecast.txt: Output file for the weather forecast data.
+
+
+At the end, your DAG (Directed Acyclic Graph) graph in Apache Airflow should look similar to the following screenshot:
+
+![DAG Screenshot](https://i.imgur.com/C3CCoDB.jpeg)
