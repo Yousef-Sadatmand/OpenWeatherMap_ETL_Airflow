@@ -1,5 +1,9 @@
 # Weather Forecast ETL with Apache Airflow
 
+![image](https://github.com/Yousef-Sadatmand/OpenWeatherMap_ETL_Airflow/assets/132624653/92531fe2-e31e-41cc-a505-feff6d640488)
+
+
+
 This project demonstrates an Extract, Transform, and Load (ETL) pipeline using Apache Airflow to fetch weather forecast data from the OpenWeatherMap API, transform it, and store it in a text file.
 
 ## Description
